@@ -1,0 +1,106 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 3,
+        "name": "Mouseover first item in popular list",
+        "description": "",
+        "id": "automationpractice-test;mouseover-first-item-in-popular-list",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 5319652370,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user suould be on home page",
+            "match": {
+              "location": "AutomationPracticeTest.user_is_on_homepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 8127290843,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "click on Add to Cart button that appears on mouseover",
+            "match": {
+              "location": "AutomationPracticeTest.click_on_add_to_cart()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1641489491,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "transfer control to popup that appears",
+            "match": {
+              "location": "AutomationPracticeTest.transfer_control_to_pop_up_window()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 18459967,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "verify product added message",
+            "match": {
+              "location": "AutomationPracticeTest.veryfy_product_added_message()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 30401736,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "click on Continue Shopping button in popup",
+            "match": {
+              "location": "AutomationPracticeTest.click_on_continue_shopping()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 11524250,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "transfer control to main page",
+            "match": {
+              "location": "AutomationPracticeTest.switch_to_main_page()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 93441715,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "close window",
+            "match": {
+              "location": "AutomationPracticeTest.close_window()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Automationpractice Test",
+    "description": "",
+    "id": "automationpractice-test",
+    "keyword": "Feature",
+    "uri": "/Users/Ganaparthi/Documents/Saritha/eclipseProject/FirstCucumberProjectJune2019/src/main/java/Feature/AutoPractice.feature"
+  }
+]
