@@ -12,7 +12,7 @@
         "steps": [
           {
             "result": {
-              "duration": 5319652370,
+              "duration": 4439866606,
               "status": "passed"
             },
             "line": 4,
@@ -24,7 +24,7 @@
           },
           {
             "result": {
-              "duration": 8127290843,
+              "duration": 3135010322,
               "status": "passed"
             },
             "line": 5,
@@ -36,7 +36,7 @@
           },
           {
             "result": {
-              "duration": 1641489491,
+              "duration": 1131728063,
               "status": "passed"
             },
             "line": 6,
@@ -48,7 +48,7 @@
           },
           {
             "result": {
-              "duration": 18459967,
+              "duration": 18108287,
               "status": "passed"
             },
             "line": 7,
@@ -60,7 +60,7 @@
           },
           {
             "result": {
-              "duration": 30401736,
+              "duration": 30153565,
               "status": "passed"
             },
             "line": 8,
@@ -72,7 +72,7 @@
           },
           {
             "result": {
-              "duration": 11524250,
+              "duration": 6636779,
               "status": "passed"
             },
             "line": 9,
@@ -84,7 +84,7 @@
           },
           {
             "result": {
-              "duration": 93441715,
+              "duration": 93616161,
               "status": "passed"
             },
             "line": 10,
